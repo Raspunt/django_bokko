@@ -1,0 +1,35 @@
+
+
+body{
+    background-color: #294351;
+}
+
+
+.con {
+    margin-top: 100px;
+    padding-left: 400px;
+    padding-right: 400px;
+}
+
+.form_bg{
+    background:#4A829E; 
+    padding:20px;
+}
+
+
+.login_text label {
+    font-size: 30px;
+}
+
+.submit_padding{
+    margin: 10px;
+}
+
+.url_text{
+    text-align: center;
+    justify-content: center;
+}
+
+.select_box{
+    margin-top: 40px;
+}
